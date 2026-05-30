@@ -24,4 +24,4 @@ A aplicação foi estruturada com base no padrão **MVC (Model-View-Controller)*
 - **View:** Interface visual com foco em usabilidade
 - **Controller:** Lógica de personalização e fluxo de pedidos
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório.
