@@ -1,0 +1,16 @@
+# IDEs
+.idea/
+.vscode/
+nbproject/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Compilados
+*.exe
+*.o
+*.class
+build/
+dist/
